@@ -1,0 +1,1 @@
+Radhuni image update: 20 original user-provided images + 11 new distinct user-provided images = 31 visible Radhuni product cards. Duplicate images were not repeated. Products without supplied images were hidden. Google image search links removed. Existing heritage homepage and other catalog categories preserved. Prices are examples, not confirmed retail prices.
